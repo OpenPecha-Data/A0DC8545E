@@ -1,0 +1,25 @@
+id: A0DC8545E
+title: Prayer to His Holiness the Dalai Lama
+type: translation
+pechas:
+- I1F8CA0C0
+- IFED0BFF1
+- I3EF5E22F
+- I354D4834
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:58:32.782559
+  last_modified_at: 2023-01-04 12:58:32.782578
+  collections:
+  - Lodi Gyari Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I1F8CA0C0/7CAE: CEBC
+  IFED0BFF1/D6DD: CEBC
+  I3EF5E22F/E3DD: CEBC
+  I354D4834/620A: CEBC
